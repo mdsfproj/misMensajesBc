@@ -1,0 +1,1 @@
+Para iniciar la web ejecutar el fichero iniciar.cmd o por terminal en esta carpeta ejecutar npx lite-server
